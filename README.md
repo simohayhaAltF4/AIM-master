@@ -77,9 +77,7 @@ options:
 
 This tool was designed for educational purposes only and is not intended for any mischievous use, I am not responsible for its use.
 
-### 📜 License
 
-This project is [License GPL v3](https://www.gnu.org/licenses/gpl-3.0.fr.html) be sure to follow all rules 👍
 
 ### 💖 Thanks
 
