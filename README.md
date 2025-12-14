@@ -7,7 +7,7 @@
 
 # **🕵️ Eyes is an OSINT tool to get existing accounts from an email**
 
-![](assets/capture.png)
+
 
 ## 😇 About
 
