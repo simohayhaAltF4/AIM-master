@@ -1,6 +1,6 @@
-<h1 align="center" id="title">👁️🌍 E y e s</h1><br>
+<h1 align="center" id="title">👁️🌍 A M I M</h1><br>
 
-![](assets/eyes.png)
+![](assets/AIM.png)
 
 [![python version](https://img.shields.io/badge/Python-3.10%2B-brightgreen)](https://www.python.org/downloads/)
 [![license](https://img.shields.io/badge/License-GNU-blue.svg)](https://www.gnu.org/licenses/gpl-3.0.fr.html)
@@ -11,9 +11,9 @@
 
 ## 😇 About
 
-> Eyes is osint tool based on account search from an email address
+> AIM is osint tool based on account search from an email address
 
-> Eyes is able to find not only if an account is existing on different sites but also to find the account in question (with certain modules)
+> AIM is able to find not only if an account is existing on different sites but also to find the account in question (with certain modules)
 
 > even if the profile has nothing to do with the email 😲!
 
@@ -53,8 +53,8 @@ The facial recognition module is called: Venom
 - [New terminal](https://apps.microsoft.com/store/detail/windows-terminal/9N0DX20HK701?hl=en-us&gl=us) (to display emojis) # only for windows
 
 ```
-$ git clone https://github.com/N0rz3/Eyes.git
-$ cd ./Eyes
+$ git clone https://github.com/N0rz3/AIM.git
+$ cd ./AIM
 $ pip3 install -r requirements.txt
 ```
 
@@ -98,6 +98,5 @@ This project is [License GPL v3](https://www.gnu.org/licenses/gpl-3.0.fr.html) b
 
 If you like what i do, please subscribe 💖. And if you find this tool is useful don't forget to star 🌟
 
-**💶 Support me 👇**
 
-<a href="https://www.buymeacoffee.com/norze" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" ></a>
+
