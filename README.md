@@ -73,18 +73,6 @@ options:
   -m, --modules  gives you all the email modules used by Eyes
 ```
 
-
-
-
-## 🌞 More
-
-If you want to discover other tools of the same kind there are :
-
-- [Osint Industries](https://osint.industries/)
-- [Holehe](https://github.com/megadose/holehe)
-- [Buster](https://github.com/sham00n/buster)
-  And others...
-
 ### ✔️ / ❌ Rules
 
 This tool was designed for educational purposes only and is not intended for any mischievous use, I am not responsible for its use.
